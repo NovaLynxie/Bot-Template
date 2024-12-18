@@ -1,0 +1,10 @@
+# directories
+node_modules/*
+logs/*
+
+# config files
+*.env
+*.toml
+
+# log files
+.log
