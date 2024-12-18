@@ -19,7 +19,7 @@ You have either not installed NodeJS or your PATH env variable has not been setu
 Check the console or logs for errors and ensure your code is free of syntax errors. If all else fails reinstall your dependencies by running `npm clean-install` or delete the `node_modules` folder and run `npm install` to setup your environment again.
 ### I have tried the above step, but my bot still refuses to start-up correctly!
 If reinstalling fails and you are sure there is a problem with the framework, please leave an issue ticket and I will get back to you as soon as possible.
-### I might have found a bug or want to request a feature not specific to my bot. Can I contribute?
+### Can I contribute to provide bug fixes, patches, or make feature requests?
 Yes you can! In fact this is highly encouraged to help assist in improving this custom framework. 
 Feel free to offer assistance with an issue ticket or create a pull request with the relevant code to be reviewed.  
 I do however ask that you only use pull requests for feature requests or urgent patches as not all requests may be possible or may only be unique to your use-case. If you are unsure of this, please create an issue ticket and I'll get back to you as soon as I can.
