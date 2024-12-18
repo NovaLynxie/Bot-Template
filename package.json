@@ -1,0 +1,30 @@
+{
+  "name": "djs-bot-template",
+  "version": "0.0.1",
+  "description": "A simple discord.js bot template written in nodejs",
+  "main": "lib/bot.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "bot",
+    "discordjs",
+    "nodejs",
+    "framework"
+  ],
+  "author": "NovaLynxie",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "toml": "^3.0.0",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
+}
