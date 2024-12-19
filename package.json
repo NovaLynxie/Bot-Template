@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "setup": "node ./lib/utils/setup.js"
   },
   "keywords": [
     "bot",
